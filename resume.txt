@@ -1,0 +1,110 @@
+This is my resume
+
+Resume
+
+Marvel Marvelous, a.k.a. "mm"
+yourphonenumber
+youremail@msn.com
+
+CAREER PROFILE
+
+Over ten years of management experience. Four years of data science experience in various industries, including FinTech/BPO, pharmaceuticals, and tech. CompTIA A+, Project+, and Network+ certified.
+
+CAREER HIGHLIGHTS
+
+Served as a senior associate data scientist in the Retail and Financial domains, leveraging natural language processing, network graph analysis, and other techniques to extract insights from large datasets.
+
+Developed automation solutions for a pharmaceutical company, including optical character recognition (OCR) and natural language processing (NLP) techniques to convert unstructured data into functional business documents.
+
+Currently serving as a Machine Learning Support Engineer at Microsoft, providing technical support, and troubleshooting for machine learning models and systems.
+
+TECHNICAL SKILLS
+
+Natural Language Processing NLTK, GSDMM, LDA, Network Graph Analysis, Data Wrangling, ETL, Data Crunching, Applied Statistics, Machine Learning, Jupyter Notebooks, Anaconda, Python, SQL, Spark, Tableau, Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, HTML, CSS, JavaScript, C Sharp, C Plus Plus, Bootstrap, Power BI, CR, Computer Vision, Azure Machine Learning Studio, Project Management, ChatGPT, LLM, OpenAI, Semantic Kernel, Langchain, Prompt Engineering
+
+PROFESSIONAL EXPERIENCE
+
+Apple and Apple LLC
+
+Responsible for providing technical support and troubleshooting for machine learning models and systems. This involves model monitoring and troubleshooting, technical support, documentation and training, performance optimization, collaboration with data scientists and developers, and research and development.
+
+Developed automation solutions for a pharmaceutical, retail, and telecommunications company. Performed optical character recognition (OCR) natural language processing techniques (NLP) to convert large unstructured datasets into functional business documents. Worked in Python, AWS, and UiPath.
+
+Mobile Streaming
+
+Worked with large structured and unstructured data sets, cleaning/scrubbing data sets, build/deploy models. Scoped innovative solutions. Worked with stakeholders on applying and delivering AI at scale. Conducts exploratory data analysis using NLP techniques. Created end-to-end data pipelines in AWS using Lambda, API Gateway, etc. Delivered actionable insights to stakeholders.
+
+Education Machine Learning Technology Center
+
+Increased productivity of staff members and new employees.
+
+ACADEMIC EXPERIENCE
+
+UCLA, MS in Data Analytics
+
+UCLA, BS in Data Management and Data Analytics
+
+Codeup, Fully-immersive, project-based 18-week Data Science career accelerator that provides students with 600+ hours of expert instruction in applied data science. Students develop expertise across the full data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and become comfortable working with real, messy data to deliver actionable insights to diverse stakeholders.
+
+HONORS and AWARDS
+
+
+CERTIFICATIONS
+
+LinkedIn Learning courses on Data Science and Machine Learning:
+
+Master Course in Tableau 10 20123 for Business Intelligence
+Basic Statistics
+Data Science Math Skills
+Mathematics for Machine Learning: Linear Algebra
+Python for Data Science
+Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain
+Building Skills with Semantic Kernel
+Generative AI: Working with Large Language Models
+Introduction Semantic Kernel: Building AI-Based Apps
+Introduction to Prompt Engineering for Generative AI
+Root Cause Analysis: Getting to the Root of Business Problems
+Data Analytics: Dashboards vs. Data Stories
+Machine Learning Specialist, Cloud Academy
+Advanced NLP with Python for Machine Learning
+Amazon Web Services for Data Science
+NLP for Python for Machine Learning Essential Training
+Deploying Scalable Machine Learning for Data Science
+
+Information Technology CompTIA Certifications
+
+A+ Certification
+Agile+
+Network+
+Project+
+
+LinkedIn Learning courses on Information Technology:
+
+AWS for DevOps: Continuous Delivery and Process Automation
+Intermediate Python Python Programming
+Introduction to Python Python Programming
+Docker Step-by-Step
+
+Udemy courses on Information Technology:
+Coursera courses on Data Statistics
+
+Amazon Web Services  Learning and Implementing AWS
+
+LinkedIn Learning courses on Project Management:
+
+Project+
+Basics of Scrum Agile and Product Delivery
+Make Your Agile Team Faster and More Productive
+Project Management Professional Certification
+
+LinkedIn Learning courses on Leadership and Management:
+
+Leading and Motivating People with Different Personalities
+Statistics
+Critical Thinking for More Effective Communication
+Data Strategy
+Strategic Thinking
+
+##
+
+Answer the following question based on the resume above.
