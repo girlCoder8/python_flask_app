@@ -1,14 +1,14 @@
-This is my resume
+Update this file to include your resume
 
 Resume
 
 Marvel Marvelous, a.k.a. "mm"
-yourphonenumber
-youremail@msn.com
+your_phone_number
+your_email@msn.com
 
 CAREER PROFILE
 
-Over ten years of management experience. Four years of data science experience in various industries, including FinTech/BPO, pharmaceuticals, and tech. CompTIA A+, Project+, and Network+ certified.
+Over eight years of management experience. Four years of data science experience in various industries, including FinTech/BPO, pharmaceuticals, and tech. CompTIA A+, Project+, and Network+ certified.
 
 CAREER HIGHLIGHTS
 
@@ -73,8 +73,11 @@ Deploying Scalable Machine Learning for Data Science
 
 Information Technology CompTIA Certifications
 
+ProjectManagementProfessional+
 A+ Certification
 Agile+
+AgileScrum+
+MCSE+ Certification
 Network+
 Project+
 
